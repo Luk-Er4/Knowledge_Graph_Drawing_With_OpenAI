@@ -1,29 +1,85 @@
 ,Entity1,Relation,Entity2
-0,smithco,expresses policy of,equal opportunity
-1,smithco,has policy of,selecting best-qualified person for positions
-2,smithco,conducts,business relationships without prejudice
+0,equal opportunity,policy of,smithco
+1,smithco,selects,best-qualified person
+2,smithco,conducts,business relationships
 3,smithco,committed to,equal employment opportunity
-4,smithco,makes advancement opportunities,independent of race
-5,creed,color,smithco
-6,makes employment decisions,independent of sex,national origin
-7,ancestry,smithco,makes employment decisions
-8,independent of age,physical or mental handicap,smithco
-9,makes employment decisions,independent of veteran or military status,smithco
-10,makes employment decisions,independent of any protected characteristic under law,smithco managers
-11,expected to,seek diverse pool of candidates,smithco
-12,develops,annual affirmative action program,smithco
-13,has status of,government contractor,smithco leadership
-14,demonstrates,commitment to equal employment opportunities,smithco
-15,extends equal opportunity policy,to all employment phases,smithco
-16,applies equal opportunity policy to,recruitment,selection
-17,placement,smithco,applies equal opportunity policy to
-18,transfer,training and development,smithco
-19,applies equal opportunity policy to,promotion,compensation
-20,benefits,smithco,applies equal opportunity policy to
-21,layoffs,termination,employment conditions
-22,smithco,requires employee support for,equal employment opportunity policy
-23,smithco vice president of human resources,assigned authority for,implementing equal employment opportunity policy
-24,smithco associates,expected to,support equal employment opportunity policy
-25,smithco employees,consult for discrimination issues with,hr manager or hr representative
-26,smithco,provides,employee assistance program
-27,smithco employee assistance program,assists with,equal opportunity and discrimination issues
+4,smithco,committed to,employees
+5,smithco,committed to,applicants
+6,smithco,makes,employment decisions
+7,smithco,makes,advancement opportunities
+8,smithco,makes,employment decisions
+9,smithco,makes,advancement opportunities
+10,smithco,regards,race
+11,smithco,regards,creed
+12,smithco,regards,color
+13,smithco,regards,religion
+14,smithco,regards,sex
+15,smithco,regards,national origin
+16,smithco,regards,ancestry
+17,smithco,regards,age
+18,smithco,regards,physical handicap
+19,smithco,regards,mental handicap
+20,smithco,regards,veteran status
+21,smithco,regards,military status
+22,smithco,regards,protected characteristic
+23,managers,seek out,diverse pool
+24,managers,make,hiring decisions
+25,smithco,develops,affirmative action program
+26,affirmative action program,is,federal requirement
+27,smithco,is,government contractor
+28,leadership team,demonstrates,smithco’s commitment
+29,leadership team,provides,equal employment opportunities
+30,managers,meet with,hr manager
+31,employees,meet with,hr manager
+32,equal employment opportunity,applies to,employment process
+33,smithco,extends,policy
+34,policy,applies to,recruitment
+35,policy,applies to,selection
+36,policy,applies to,placement
+37,policy,applies to,transfer
+38,policy,applies to,training
+39,policy,applies to,development
+40,policy,applies to,promotion
+41,policy,applies to,compensation
+42,policy,applies to,benefits
+43,policy,applies to,layoffs
+44,policy,applies to,termination
+45,policy,applies to,conditions of employment
+46,policy,applies to,benefits of employment
+47,employees,promote,policy
+48,employees,abide by,policy
+49,employees,have,business relationship
+50,authority,assigned to,vice president of human resources
+51,equal employment opportunity,requires,participation of all associates
+52,associate,consults with,manager
+53,associate,consults with,hr representative
+54,employee assistance program,provides,assistance
+55,college admissions officers,read,essays
+56,applicants,think,experiences are unique
+57,experiences,contribute to,difficulty
+58,putting yourself in reader’s shoes,helps,writing
+59,reading essay,shows,trite descriptions
+60,improvement,needed in,trite descriptions
+61,describing trip,may bore,reader
+62,experience,could have been,life-changing
+63,creative ways,make,writing interesting
+64,creative ways,signal,effort
+65,describing experience,can sound,less cliché
+66,experiences,speak for,themselves
+67,experiences,display,imagination
+68,experiences,emphasize,learning
+69,learning,popular with,adcoms
+70,supply chain,divided into,stages
+71,stages,include,production
+72,stages,include,distribution
+73,production stage,produces,components
+74,production stage,produces,semi-finished parts
+75,components,put together in,assembly plant
+76,distribution stage,consists of,distribution centres
+77,distribution centres,transport,products
+78,products,transported to,end-consumers
+79,materials,flow to,end of supply chain
+80,customer behaviour,influences,supply chain
+81,supply chain processes,co-ordinated to,focus on customer behaviour
+82,customer responsiveness,confirms,material flow
+83,material flow,meets,customer behaviour
