@@ -4,10 +4,18 @@ If an update is a relationship, provide ENTITY 1, RELATIONSHIP, ENTITY 2. The re
 
 Example: prompt: Sun is source of solar energy. It is also source of Vitamin D. updates: "Sun", "source of", "solar energy", "Sun","source of", "Vitamin D"
 
+Comma is essential.
+
 Just give me those relationships without numberings.
 
 Give me exactly three objects per a relationship.
 
 Give me many relationships as you can.
+
+If you see commas in the object, make them split into multiple relationships.
+
+Never leave two new line characters.
+
+If you see the pronoun, you should guess it.
 
 Here is my prompt.
