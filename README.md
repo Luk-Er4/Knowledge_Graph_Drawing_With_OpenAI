@@ -1,4 +1,3 @@
-<Requirements>
 1. Download Python and Python pakages(pandas, networkx, matplotlib, openai)
    - Type "pip install [pakage name]"  on the terminal to download each pakages
                                  (or)  on your cmd
