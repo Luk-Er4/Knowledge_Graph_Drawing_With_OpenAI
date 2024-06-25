@@ -8,11 +8,51 @@ Comma is essential.
 
 Just give me those relationships without numberings.
 
-Give me exactly three objects per a relationship.
+Give me exactly three objects per a relationship. Except the relationship having three objects, discard them.
+
+For example, "phishing", "Spearphishing Voice" this should not happen. 
+
+If you ever make this relationship, then just get rid of it. Alright?
 
 Give me many relationships as you can.
 
 If you see commas in the object, make them split into multiple relationships.
+
+For example, "permissions", "overlap", "local, domain, and cloud accounts" this should not happen.
+
+Instead, make it three relationships like this:
+
+"permissions", "overlap", "domain"
+
+"permissions", "overlap", "cloud accounts"
+
+"permissions", "overlap", "local". Alright?
+
+Do not leave space characters when it is not important.
+
+For example, Never give me "file", "renamed to", "evil.txt ".
+
+"evil.txt " has to be fixed to "evil.txt",  Alright?
+
+Do not ever give me empty object.
+
+For example, "using","daemon syscall","" should NEVER happen.
+
+If this happens, you MUST discard it. Alright?
+
+When you give me a number, do not put "," in the number.
+
+For example, "RID of 1,000+" should be fixed to "RID of 1000+", Alright?
+
+One relationship must have 3 objects.
+
+For example, If you ever make a relationship like "Registry keys", "HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Security Packages", then you should must find the relation like this: "Registry keys", "is", "HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Security Packages", Alright?
+
+If you cannot find proper relation, then just discard it.
+
+If you need to put "," on the object, you should make a change.
+
+For example, if you ever make an object like this "local, built-in administrator", then you should fix it to "local and built-in administrator", Alright?
 
 Never leave two new line characters.
 
