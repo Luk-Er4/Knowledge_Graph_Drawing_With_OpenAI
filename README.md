@@ -9,3 +9,11 @@
 3. Pay for the credits at "https://platform.openai.com/settings/organization/billing/overview"
    - Whenever you call OpenAI API, you will spend the credit.
 
+-How to use-
+
+1. Clone or copy this repo.
+   
+2. Change the folder paths in the code.
+
+3. Run the code and type proper responses.
+   
